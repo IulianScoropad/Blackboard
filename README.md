@@ -1,2 +1,2 @@
 # Blackboard
- Chains Factory implements using Blackboard Pattern
+ Chairs Factory implements using Blackboard Pattern
